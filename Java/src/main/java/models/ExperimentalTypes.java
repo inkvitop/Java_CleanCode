@@ -1,5 +1,4 @@
 package models;
 
-public enum ExperimentalTypes {
-    LIFTING_BODY, HYPERSONIC, HIGH_ALTITUDE, VTOL
-}
+// removed unused constants
+public enum ExperimentalTypes { HIGH_ALTITUDE, VTOL }

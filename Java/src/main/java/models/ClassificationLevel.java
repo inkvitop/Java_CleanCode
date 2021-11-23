@@ -1,5 +1,4 @@
 package models;
 
-public enum ClassificationLevel {
-    UNCLASSIFIED, CONFIDENTIAL, SECRET, TOP_SECRET
-}
+// removed unused constant
+public enum ClassificationLevel { SECRET, TOP_SECRET, UNCLASSIFIED }
